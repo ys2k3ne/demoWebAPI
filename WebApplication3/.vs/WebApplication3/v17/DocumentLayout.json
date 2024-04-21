@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\migrations\\20240421213846_addtbloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\20240421213846_addtbloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|d:\\hoc_c#\\project\\webnetcore\\webapplication3\\webapplication3\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC5E602-68A3-4E59-B153-76F333C2520A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiModel.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Models\\LoaiModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\LoaiModel.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Models\\LoaiModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\LoaiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:52:21.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaisController.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Controllers\\LoaisController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\LoaisController.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Controllers\\LoaisController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\LoaisController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:42:30.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240421213846_AddTbLoai.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Migrations\\20240421213846_AddTbLoai.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20240421213846_AddTbLoai.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\Migrations\\20240421213846_AddTbLoai.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20240421213846_AddTbLoai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:38:46.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\data\\MyDbContext.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\MyDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:36:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\data\\HangHoa.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\HangHoa.cs",
+              "RelativeToolTip": "WebApplication3\\data\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:31:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\Loai.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\data\\Loai.cs",
+              "ToolTip": "D:\\Hoc_C#\\Project\\webNetcore\\WebApplication3\\WebApplication3\\data\\Loai.cs",
+              "RelativeToolTip": "WebApplication3\\data\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:28:18.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
